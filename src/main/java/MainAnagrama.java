@@ -1,7 +1,13 @@
 public class MainAnagrama {
     public static void main(String[] args) {
-        Anagrama anagrama = new Anagrama("ifailuhkqq");
+        /**
+         * 1 repticao A ok
+         * 1 repetição n
+         * 1 an -> an ok
+         * 1 an -> an
+         */
+        Anagrama anagrama = new Anagrama("afgatha");
 
-        anagrama.gerar();
+        System.out.println(anagrama.gerar());
     }
 }
