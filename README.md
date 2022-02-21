@@ -9,5 +9,7 @@ $ mvn clean install
 Para cada questão foi criado uma classe Main. 
 
 Questão 1 MainEscada.
+
 Questão 2 MainSenha.
+
 Questão 3 MainAnagrama.
